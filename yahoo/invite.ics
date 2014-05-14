@@ -4,13 +4,13 @@ VERSION:2.0
 METHOD:REQUEST
 BEGIN:VEVENT
 SUMMARY:Let's talk about the offsite!
-DESCRIPTION:Let's do this.
+DESCRIPTION:http://app.meetinghero.com/some_real_url
 CLASS:PUBLIC
 DTSTART;TZID=America/Los_Angeles:20140515T180000
 DTEND;TZID=America/Los_Angeles:20140515T183000
 LOCATION:The OTHER BIG conference room
 PRIORITY:0
-SEQUENCE:3
+SEQUENCE:4
 UID:726b5a86-911a-4295-815e-12de27b79867
 ATTENDEE;RSVP=TRUE:mailto:dave@davebryand.com
 ATTENDEE;RSVP=TRUE:mailto:dave@heirloom.io
